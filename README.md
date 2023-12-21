@@ -47,7 +47,7 @@ The application provides three main buttons to interact with:
 
 Results from these actions, as well as any events emitted by the native module, are displayed on the screen.
 
-If you want to understand better how the code works you can read the comments added in the source code or read [this](https://medium.com/@DEV_0x07/native-modules-swift-based-the-basics-react-native-4ac2d0a712ca) medium blogpost
+If you want to understand better how the code works you can read the comments added in the source code or read [this](https://medium.com/@jtaverasv/native-modules-swift-based-the-basics-react-native-4ac2d0a712ca) medium blogpost
 
 ## Limitation
 At the moment I just implemented the iOS native side, the Android part is TBD.
